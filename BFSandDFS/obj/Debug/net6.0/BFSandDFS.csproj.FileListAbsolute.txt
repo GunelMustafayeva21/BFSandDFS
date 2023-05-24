@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\BFSandDFS\BFSandDFS\bin\Debug\net6.0\BFSandDFS.exe
+C:\Users\User\source\repos\BFSandDFS\BFSandDFS\bin\Debug\net6.0\BFSandDFS.deps.json
+C:\Users\User\source\repos\BFSandDFS\BFSandDFS\bin\Debug\net6.0\BFSandDFS.runtimeconfig.json
+C:\Users\User\source\repos\BFSandDFS\BFSandDFS\bin\Debug\net6.0\BFSandDFS.dll
+C:\Users\User\source\repos\BFSandDFS\BFSandDFS\bin\Debug\net6.0\BFSandDFS.pdb
+C:\Users\User\source\repos\BFSandDFS\BFSandDFS\obj\Debug\net6.0\BFSandDFS.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\BFSandDFS\BFSandDFS\obj\Debug\net6.0\BFSandDFS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\BFSandDFS\BFSandDFS\obj\Debug\net6.0\BFSandDFS.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\BFSandDFS\BFSandDFS\obj\Debug\net6.0\BFSandDFS.AssemblyInfo.cs
+C:\Users\User\source\repos\BFSandDFS\BFSandDFS\obj\Debug\net6.0\BFSandDFS.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\BFSandDFS\BFSandDFS\obj\Debug\net6.0\BFSandDFS.dll
+C:\Users\User\source\repos\BFSandDFS\BFSandDFS\obj\Debug\net6.0\refint\BFSandDFS.dll
+C:\Users\User\source\repos\BFSandDFS\BFSandDFS\obj\Debug\net6.0\BFSandDFS.pdb
+C:\Users\User\source\repos\BFSandDFS\BFSandDFS\obj\Debug\net6.0\BFSandDFS.genruntimeconfig.cache
+C:\Users\User\source\repos\BFSandDFS\BFSandDFS\obj\Debug\net6.0\ref\BFSandDFS.dll
